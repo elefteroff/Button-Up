@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+p {
+    margin-left: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.search {
+    background-color: white;
+    width: 120px;
+    height: 18px;
+    border: 2px solid rgb(65, 160, 132);
+    border-radius: 50%;
+    font-size: small;
+    font-weight: bold;
+    color: rgb(65, 160, 132);
+}
+
+.plus {
+    background-color: rgb(91, 223, 183);
+    border-radius: 50%;
+    width: 21px;
+    height: 21px;
+    color: white;
+}
+
+.create {
+    border: 2px solid black;
+    box-shadow: 2px 2px 0px 0px black;
+    width: 140px;
+    height: 18px;
+    background-color: rgb(64, 110, 208);
+    color: whitesmoke;
+    font-size: 
+    small;
+    font-family: arial;
+    padding-top: 2px;
+}
